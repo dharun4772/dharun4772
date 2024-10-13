@@ -1,23 +1,24 @@
- <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Dharun Suryaa Nagarajan 👋</h1>
+ <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Suhas Maddali 👋</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun4772/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dharun4772)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Dharun-S) [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011376778827) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1295033012538445904) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://northeastern.zoom.us/account) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+16692437230)
 
-I'm passionate about __Machine Learning__, __Data Science__, __Reinforcement Learning__, __Causal Inferece__,  __Large Language Models (LLMs)__ and __Generative AI__. 
+I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
-![](https://github.com/dharun4772/GIF-Files/blob/main/Dharun%20Suryaa%20Nagarja.gif)
+The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
+
+![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/).
 
-I have *4+ years* of experience building and deploying __machine learning__ and __deep learning models__. 
-
-Furthermore, I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
+I have *4+ years* of experience in creating inferences with data, building __machine learning__ and __deep learning models__. I measure the impact of a project with the business goals of a company and its impact on customers. Furthermore, I have a strong practical and theoretical experience in the development and deployment of __Large Language Models (LLMs)__, __Generative AI__, Reinforement learning, and Causal Inference.
 
 🔭 Below are some of the companies I have worked as a data scientist and a machine learning engineer:
 
-* *NVIDIA Corporation*
-* *Solbots Technologies Private Limited*
+* *Bevi - a beverage company*
+* *Swiggy - a food delivery platform*
+* *Tata Consultancy Services*
 * *Khoury College of Computer Sciences*
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
@@ -55,7 +56,6 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 * *Langchain*
 * *LangGraph*
 * *Retrieval Augmented Generation (RAG)*
-* *Llama Index*
 * *OpenAI API*
 * *Mixtral (LLM)*
 * *Llama 2 (LLM)*
@@ -67,14 +67,10 @@ Furthermore, I have a strong practical and theoretical experience in the develop
 
 * *Docker*
 * *Docker-Compose*
-* *Kubernetes*
 * *Linux*
 * *Windows Subsystem for Linux (WSL)*
-* *Travis CI*
 * *Ubuntu*
 * *GitLab CI/CD*
-
-![](https://github.com/suhasmaddali/Images/blob/main/GitHub%20Main%20Image.jpg)
 
 
 

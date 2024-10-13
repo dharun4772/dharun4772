@@ -1,12 +1,10 @@
- <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Suhas Maddali 👋</h1>
+ <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Dharun Suryaa Nagarajan 👋</h1>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharun4772/) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dharun4772)  [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Dharun-S) [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011376778827) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1295033012538445904) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://northeastern.zoom.us/account) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) ![](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+16692437230)
 
-I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
+I'm passionate about __Machine Learning__, __Data Science__, __Reinforcement Learning__, __Causal Inferece__,  __Large Language Models (LLMs)__ and __Generative AI__. 
 
-The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
-
-![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
+![](https://github.com/dharun4772/GIF-Files/blob/main/Dharun%20Suryaa%20Nagarja.gif)
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 

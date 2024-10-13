@@ -740,19 +740,13 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 🏫 [__Northeastern University (Khoury College of Computer Science)__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
 
-I have pursued a [Master's in Data Science](https://www.khoury.northeastern.edu/programs/data-science-ms/) at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress toward learning the concepts of data science. Courses such as Supervised Machine Learning, Unsupervised Machine Learning, and Data Visualization helped me understand the practical ways in which data science is used in industrial applications.
+I have pursued a [Master's in Data Science](https://www.khoury.northeastern.edu/programs/data-science-ms/) at Khoury College of Computer sciences. During the course, I've learned to implement various machine learning algorithms. Furthermore, the courses that were taught really shaped the way in which I approached machine learning and data science problems. I had an opportunity to learn machine learning algorithms from a theoretical point of view by doing assignments and projects pertaining to the course. It also helped me learn some important courses that were really influential in my progress toward learning the concepts of data science. Courses such as Supervised Machine Learning, Unsupervised Machine Learning, and Data Visualization helped me understand the practical ways in which data science is used in industrial applications. 
 
 <hr style="border:0.01px solid blue">
 
-🏫 [__Arizona State University (Ira A. Fulton School of Engineering)__](https://engineering.asu.edu) - *Masters in Software Engineering*
+🏫 [__Amrita School of Engieering__](https://www.amrita.edu/) - *B.Tech in Civil Engineering*
 
-I pursued a [Master's in Software Engineering](https://asuengineeringonline.com/content/engineering-science-software-engineering-mse) at Arizona State University. It was a good experience where I could get a solid understanding of working with software engineering principles and paradigms. Furthermore, I was also involved in a project where we as a team had to build an AR application in real time. It was a good experience where I learned software engineering principles and learned to work in sprints for a different set of tasks respectively. Furthermore, I also completed the data structures and algorithms course which allowed me to understand the time complexity of various algorithms which was also influential in my understanding of machine learning algorithms respectively. 
-
-<hr style="border:0.01px solid blue">
-
-🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *B.Tech in Electronics and Communication Engineering*
-
-I've completed a Bachelor of Technology in the field of [Electronics and Communication Engineering(ECE)](http://www.vnrvjiet.ac.in/ece.php) and got a good understanding of the concepts such as resistors and conductors and how they influence the overall circuit in real-life. During my 4 year journey in Electronics and Communication Engineering, I came to the conclusion that we would be learning various communication devices such as satellites and circuits that would influence the ways in which a mobile signal is being received for mobile applications. Furthermore, this gave me a good understanding of signal processing and other important topics that could also be used in machine learning analysis respectively.
+I've completed a Bachelor of Technology in the field of [Civil Engineering(CIE)](https://www.amrita.edu/program/btech-civil-engineering/) and got a good understanding of the concepts such as Fluid Mechanics and Statistical Experimentation and how they influence the overall problem statement in real-life. During my 4 year journey, I came to the conclusion that we would be learning various tools and techniques to build anything from ground up. Furthermore, this gave me a good understanding of mathematical design and other important topics that could also be used in machine learning analysis respectively.
 
 <hr style="border:0.01px solid blue">
 
@@ -806,62 +800,6 @@ There are numerous machine learning and data science courses that I went through
 
 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf) - This course emphasizes the construction of time series models using up-to-date data from diverse sources. Participants gain a comprehensive understanding of cutting-edge models, including ARMA, ARIMA, SARIMA, SARIMAX, and Deep Neural Networks, for accurate forecasting. The course is highly regarded, offering clear explanations of the concepts and delivering valuable insights.
 
-## 🐎🏎 Competencies
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/raimond-klavins-uSsDbQ1zico-unsplash.jpg" width = "750" />
-
-🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-) 
-
-* During my B.tech in India, I had an opportunity to direct a team of students in our final project proposal. 
-* It was a good opportunity for me to improve my leadership skills during the process. 
-* I improved my knowledge in the field of machine learning and also learned the skills needed to direct people so that we get the best results respectively. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-)
-
-* Communication skills are also important to become a good software engineer and a data scientist. 
-* Communication plays a very important role when it comes to letting others in the team know the progress, tracking the development of a project, and getting a good understanding of the overall flow of the team. 
-* I built my communication skills during my masters where I had to discuss my assignments and projects and let them know the overall scenario where our project could be used. 
-* Furthermore, I've gone through courses that are related to communication which would ensure that we are getting the best results when talking to a group of people or an audience respectively. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
-
-* When building projects and talking to people about the outcomes, it is important to have teamwork so that it would be a whole lot easier for a team to improve the performance of the company. 
-* That's the reason why companies such as Apple and Facebook are improving their revenue as a result of work from the team rather than individual efforts. 
-* Given my strong involvement in teams, I have actively participated in numerous team-based projects, honing my networking and team management skills along the way. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
-
-* Being creative when building applications would lead to better and more innovative products. 
-* Some of the most remarkable breakthroughs take place with curiosity in the field. 
-* I believe that having high levels of curiosity in endeavors could lead to better outcomes not only in the short run but in the long run as well. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
-
-* These are the skills that generally help in solving issues quickly and effectively. 
-* They are being learned as part of education or training. 
-* They are generally about familiarizing themselves with the common issues in various industries and also learning from experienced employees. 
-
-<hr style="border:0.01px solid blue">
-
-🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management) 
-
-* During my tenure at [Solbots Technologies](https://www.solbots.in/), I earned a professional reputation by learning to manage time and giving the best outcomes for the company by working smart and trying to get things done in less time. 
-* Therefore, I was involved in the process of organizing and planning various activities. 
-* As a result, there was very good productivity in the company by managing time and effectively using it for best practices. 
-
-## 😇😇 My Values:
-
-![](https://github.com/suhasmaddali/GIF-files/blob/main/latestgiffile.gif)
-
-There is a lot of __resources__ and __tools__ available in the world with the advancement of technology. I believe that __education__ should be accessible to everyone regardless of their __location__, __age__ and __social status__. It is possible to discover very good insights with the help of __machine learning__ and __data science__ and use them to serve education in different parts of the world. I also believe that each and every individual is unique and outstanding in his/her ways. Each and every individual must be respected regardless of their conditions or their significance in society. All in all, I believe that one must give respect to each other and this would ensure that we go in the right direction and make a significant impact in society. 
 
 ## 📑🗞 My Blogs 
 
@@ -1132,120 +1070,11 @@ My interest in machine learning started during my final year of engineering at _
 * Pros and cons of each and every algorithm are explored in order to determine the right model based on business contraints. 
 * Models such as k-means, gaussian mixture models, hierarchical clustering, and others are deeply covered. 
 
-## 🎼👨‍🎓 Key Learnings
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
-
-During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI-powered applications. Given below are some of the repositories that I have added that I felt had key ingredients in them that helped me excel in this data science journey. 
-
-📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the instructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential, especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanced concepts related to python. 
-
-## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/state%20of%20the%20art%20techniques%20image.gif" width = "750"/>
-
-There is a large volume of research taking place in the field of machine learning and data science. There are newer and computationally efficient algorithms being developed by the likes of many companies and research institutes. I would like to share my thoughts on these latest machine learning trends and explain them well. 
-
-&emsp;&emsp; 👀👁 [__Vision Transformers (ViTs)__](https://en.wikipedia.org/wiki/Vision_transformer) - Transformers have revolutionized the __natural language processing industry (NLP)__ where a given text is converted into a representation that takes into account the contextual information for all the possible words given as input and returns a vector with these weights and other dependencies. One interesting research area that has emerged is to use of these same transformers for computer vision tasks. __Convolutional Neural Networks__, CNNs for short, are currently being used to take into account different positions of the image and map them with their weights before making predictions. But if we could represent these vectors by using contextual dependencies, then vision transformers might be able to replace CNNs in the future. Currently, as the performance of vision transformers has not been significantly higher than the CNN models, there is no replacement for CNNs. However, as the complexity of vision transformers increases, there is a possibility that they might replace CNNs for image processing tasks.
-
-&emsp;&emsp; 📣🔊 [__LIME &__](https://homes.cs.washington.edu/~marcotcr/blog/lime/) [__SHAP (Explainable AI)__](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html) - __LIME__ stands for __Local Interpretable Model-agnostic Explanations__ while __SHAP__ stands for __Shapley Additive Explanations__. One of the challenges with using AI and machine learning, in general, is their lack of interpretability. Though there are models such as Random Forests and Decision trees that explain why they have come up with a particular outcome such as giving feature importance, they fail to account for local dependencies which means they do not give output for a particular query point but only provide explainability in terms of the entire dataset. Furthermore, there are other models that do not also offer these features. With the help of LIME and SHAP, it is possible to explain for a query point why a particular outcome is generated for any of the machine learning models at hand. Therefore, LIME and SHAP are good, and executing them is also a lot easier with the help of libraries.
-
-&emsp;&emsp; 📕📚 [__BERT &__](https://en.wikipedia.org/wiki/BERT_(language_model)) [__RoBERTa__](https://ai.facebook.com/blog/roberta-an-optimized-method-for-pretraining-self-supervised-nlp-systems/) - __BERT__ stands for __Bidirectional Encoder Representations from Transformers__ while __RoBERTa__ stands for __Robustly Optimized BERT Pre-training Approach__. These models have been gaining popularity due to their extremely good performance in natural language processing tasks. They are basically transformers with bidirectional context vector representation. In other words, they take into account the context in terms of both the forward pass and the backward pass as well. This works extremely well due to the fact that representing each word based on the context of all the words in the document is basically a good way to understand human language. 
-
-&emsp;&emsp; 🔎🔦 [__FAISS &__](https://ai.facebook.com/tools/faiss/) [__ScaNN__](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) - When we are dealing with finding similar rows in our data and we have a very high dimensional representation of a vector, with traditional algorithms it takes a long time to find similarly if we use metrics such as __euclidean distance__ and __cosine similarity__. __Facebook Research__ has launched __FAISS__ that simplifies the process of searching for similarity and clustering of dense vectors. In the same light, __Google AI Research__ came up with __ScaNN__ which speeds up the overall process of computing the distance between various features and reduces the time complexity to a large extent. The outputs from these models contain vectors that represent a large amount of information from the input data. These are useful for building __good recommender systems__ where the items that are the most similar are recommended to a user along with many other applications as well.
-
-&emsp;&emsp; 🎧🔉 [__Audio Signal as a Spectrogram__](https://en.wikipedia.org/wiki/Spectrogram#:~:text=A%20spectrogram%20is%20a%20visual,may%20be%20called%20waterfall%20displays.) - We can define our audio signal in terms of a __spectrogram__ which is used in __audio processing__. One of the most insightful things that are currently done for deep learning is that an audio signal is converted to a spectrogram image which is later used with __convolutional neural networks (CNNs)__ for NLP tasks. Therefore, we are trying to pose the audio problem as a computer vision problem and get __higher accuracy__ and __better results__. __CNNs__ are known to perform especially well if we are able to give large amounts of image data. CNN along with transfer learning produces extremely good results. Therefore, it is improving the performance of NLP tasks such as __speech detection__ and many others. 
-
-&emsp;&emsp; 🤝🕸  [__Siamese Networks__](https://en.wikipedia.org/wiki/Siamese_neural_network) - Building __recommender systems__ whether it be __recommending items__, __movies__, or __songs__ with the help of deep neural networks can be a hard problem to define and solve respectively. With the help of __Siamese neural networks__, it is possible to use deep learning for recommending users various items as discussed above. __Siamese networks__ essentially take into account __2 different inputs__ and they have __2 networks__ that accept these inputs. The same weights are initialized to both networks and the __outputs__ from these two networks are combined together to get our predictions of how likely is the user going to like a particular item. Furthermore, it is also possible to perform __one-shot learning__ with these models which means that with few training examples, the model would learn to perform the best for the task at hand.
-
-## 🔨⚒️ Data Science Key Challenges:
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/olav-ahrens-rotne-MAEbdaFe4ps-unsplash.jpg" width = "750"/>
-
-Machine learning is used in many industries and there is a lot of demand and scope for it. There are so many tools and resources that one could be used in order to become a machine learning engineer. However, there are certain challenges in machine learning that must be addressed before they could be used for machine learning analysis. 
-
-1. __Availability of data__ - Getting access to quality data is important for machine learning predictions. Sometimes, companies cannot have access to a large volume of data that could be used for machine learning purposes. Moreover, the data that is available might not give a very good prediction accuracy and might not be quite useful for the machine learning predictions at hand. 
-
-2. __Infrastructure Requirements__ - There is also a possibility for the companies particularly startups to have the infrastructure needed for the machine learning processes respectively. They might be used some third-party applications such as Amazon Web Services (AWS) in order for them to perform their day-to-day predictions using ML algorithms. However, this would lead to further questions such as security and data ownership. 
-
-3. __Rigid Business models__ - Companies need to be flexible where they must spend their time with other resources apart from the fixed number of resources for them to work effectively. There are many companies that might require deep learning models to be more flexible and more useful and robust. When we are implementing the machine learning models, there could be instances where we might have to fix our approach rather than be more flexible. This creates problems for large-scale businesses as they must adapt to the market as and when needed. Therefore, steps must be taken to make the models more flexible and easy to understand. 
-
-4. __Lack of Talent__ - Machine Learning Engineers and Data Scientists are some of the talked about professions in the IT industry. There are many universities and colleges making use of artificial intelligence programs so that they could meet the demand from the tech industry. However, there still seem to be a lot of gaps in the industry. More and more courses and online learning resources should be created so that more people can enter the field of data science and machine learning. 
-
-## 📹🎥 My Professional Introduction Video 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/landon-martin-TQWvE-pqoeU-unsplash.jpg" width = "750"/>
-
-In the repository, I've created my __introduction video__ so that __employers__ could take a look at it and get to know my core __strengths__, __passion__ and __key knowledge__ in the field of data science and machine learning in general. Feel free to download the file and take a look at the video. Below is the link for my professional introduction repository. Feel free to download the files and view the __mp4__ files. Thanks. 
-
-__https://github.com/suhasmaddali/Professional-Introduction-Repository__
-
 ## 📽📽 My Kaggle Profile 
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/didssph-guxJTmZKhsg-unsplash.jpg" width = "750" />
 
 I'm very familiar with __Kaggle__ - a website that would help __data scientists__ and __machine learning engineers__ to explore the data and perform machine learning predictions. I would be taking my time to read the kaggle projects which give me a good idea about the working of machine learning models. Furthermore, I would read others' code as a result of which I get a good understanding of the various ways in which a machine learning project could be implemented. Below is a list of all the work that I did in __Kaggle__. Feel free to take a look and give your feedback! Thanks. 
 
-__https://www.kaggle.com/suhasmaddali007__
-
-## 🎗🎗 My Volunteer Experience
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/absolutvision-82TpEld0_e4-unsplash.jpg" width = "750"/>
-
-
-👨‍💼 [__VNR SF__](https://www.youtube.com/channel/UCTgSWJtVshqOZXM1Q8FK_PQ)
-
-* I was a member of VNR SF and I was most influential in driving the goals of the team in helping the community by providing the needy access to resources and books. 
-* This gave me a good experience of working with different individuals and learning about their goals and dreams. 
-* There were a few floods in our region during those times. We as a team went to a few neighborhoods and gave them access to new books and also explained our initiative to serve the poor and needy by giving them access to all the resources. 
-* This experience was really useful for me and the way in which I viewed education in shaping my life. 
-* This gave me an opportunity to take a look at the poorest neighborhood and understand their needs and demands. 
-
-<hr style="border:0.01px solid blue">
-
-🎤 [__Crescendo__](https://www.facebook.com/events/the-gallery-cafe/crescendo-the-vnrvjiet-band/1395963707155985/) 
-
-* In our engineering college, we had Crescendo which was the singing club where people from different departments in college came together to sing and learn to enjoy music. 
-* I was the lead singer during that time. 
-* Furthermore, I was also directing different groups of people to sing and also play musical instruments respectively. 
-* It was a really good experience to learn from the team the mistakes and correct them and ensure that everything was going well. 
-* It shaped the way in which I viewed music which was to not just sing but also enjoy the process. 
-* My 2 years of working with Crescendo really helped in handling practical aspects of life as well. 
-* Overall, it was a good and amazing experience to learn from a group of people from different departments in my college and it was really influential.
-
-## 🤝🤝 My References
-
-<img src = "https://github.com/suhasmaddali/Images/blob/main/nasa-1lfI7wkGWZ4-unsplash.jpg" width = "750" />
-
-During my work and my LinkedIn contributions, I came across a wonderful set of people who allowed me to exhibit my talents and skills and made my learning experience easy. Furthermore, they were also influential in giving me the right guidance and direction which shaped my interest in machine learning and data science. Below are some wonderful people who were influential and learned about my work in the field of data science and artificial intelligence.
-
-✅ [__Bi Senior Foua__](https://www.linkedin.com/in/bi-senior-foua/) - He is a Data Scientist at [__Apple__](https://en.wikipedia.org/wiki/Apple_Inc.) and saw my work through LinkedIn Contributions. He gave me a good idea about connecting with people through LinkedIn and Networking events. Furthermore, I discussed my projects with him and got a good idea about some of the improvements that could be made in real-time projects. This gave me a good idea about the overall workflow of machine learning and data science starting from Visualization to the Deployment of the models. 
-
-✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - He is currently working in [__PathAI__](https://www.pathai.com/) as Senior Machine Learning Scientist And Technical Lead and he saw my work through LinkedIn contributions and sharing of blogs in the field of machine learning and artificial intelligence. Furthermore, he also recognized my work through Kaggle and GitHub where I demonstrated my projects and experience in using machine learning and deep learning algorithms respectively. Overall, I had a good time interacting with him and learned a lot during the process. To add more information about Abhik, he also worked in [__Quora__](https://en.wikipedia.org/wiki/Quora) as a Machine Learning Engineer and pursued a Master's in Computer Science at [__Stanford__](https://www.stanford.edu/) University. 
-
-✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - He is the Chief Executive Officer (CEO) of [__Solbots Technologies__](https://www.solbots.in/). During my tenure at Solbots Technologies, I had a very good opportunity to speak with Mano about my knowledge of machine learning and how it could be used in Bionic Hands to detect the type of objects that were present in front of the image or video respectively. He analyzed my work and gave me a team where I could work in machine learning so that we could drive the best outcomes for the company. 
-
-## 🕹🎮 Additional Information👨‍💻👨‍💻: 
-
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/gaminggif.gif"/>
-
-Furthermore, I'm also a __gamer__ and where I spend some time gaming on steam and other platforms. Sometimes it would be good to spend time doing activities other than reading which would ensure that we could most effectively use our time for doing other activities as well. Below are some platforms where I usually game mostly. 
-
- [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com) [![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://www.epicgames.com/store/en-US/) [![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/usa/en-us/store) [![](https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=Battle.net&logoColor=white)](https://www.blizzard.com/en-us/apps/battle.net/desktop)
-
-## Useful Links
-
-__https://www.ibm.com/cloud/learn/machine-learning__
-
-__https://www.salesforce.com/eu/blog/2020/06/real-world-examples-of-machine-learning.html__
-
-__https://www.springboard.com/library/machine-learning-engineering/how-to-become/__
-
-__https://machinelearningmastery.com/what-is-deep-learning/__
-
-__https://healthinformatics.uic.edu/blog/machine-learning-in-healthcare/__
-
-__https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/__
+__https://www.kaggle.com/dharun4772__
 
 ## 🎬🔚 Summary
 
@@ -1253,17 +1082,13 @@ These are some of my __projects__, __blogs__ and __certifications__ that I have 
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
-<img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/dharun4772/__
 
-🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
+📫 __Email:__ __suryadharun4772@gmail.com__
 
-📹 __YouTube__: __https://www.youtube.com/channel/UCymdyoyJBC_i7QVfbrIs-4Q__
+📘 __Facebook:__ __https://www.facebook.com/profile.php?id=100011376778827__
 
-📫 __Email:__ __Suhas.maddali.chinnu@gmail.com__
-
-📘 __Facebook:__ __https://www.facebook.com/suhas.maddali__
-
-✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
+✍🏻 __Medium:__ __https://medium.com/@suryadharun4772__
 
 
 😄😄😄😄😄😄😄😄😄😄😄😄

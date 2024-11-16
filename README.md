@@ -196,12 +196,6 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 &emsp;&emsp; 👨‍🏫🧑‍🏫 [__Data Science Analyst__](https://github.com/dharun4772/tata-data-science/blob/main/README.md) | [__TATA CONSULTANCY SERVICES__](https://www.tcs.com/) [*October 2020 - Apr 2022*]
 
-## 🖥 My Education 
-
-&emsp;&emsp; 🏫 [__Northeastern University (Khoury College of Computer Science)__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
-
-&emsp;&emsp; 🏫 [__Amrita Vishwa Vidyapeetham__](https://www.amrita.edu/) - *B.Tech in Civl Engineering*
-
 
 ## 🖥 My Blogs On Medium
 

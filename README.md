@@ -21,12 +21,6 @@ I have *4+ years* of experience in creating inferences with data, building __mac
 * *Tata Consultancy Services*
 * *Khoury College of Computer Sciences*
 
-🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
-* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
-* *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
-* *Deploying AI & Machine Learning Models for Business from [__Udemy__](https://www.udemy.com/)*
-* *Python for Time Series Data Analysis by [__Jose Portilla__](https://www.udemy.com/user/joseportilla/)*
-
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
 * *Linear Regression*
@@ -194,79 +188,20 @@ I encourage you to explore my machine learning and deep learning projects. The l
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Scientist__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-in/) [*July 2023 - Present*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Scientist__](https://github.com/dharun4772/bevi-data-science-intern/blob/main/README.md) | [__BEVI__](https://bevi.co/) [*July 2024 - Present*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-SML/blob/main/README.md) | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*September 2022 - December 2022*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - SML__](https://github.com/dharun4772/graduate-teaching-assistant/blob/main/README.md) | [__Northeastern University__](https://www.khoury.northeastern.edu/) [*January 2024 - Present*]
 
-&emsp;&emsp; 🏢👨‍💻 [__Data Scientist Intern__](https://github.com/suhasmaddali/NVIDIA-Data-Scientist-/blob/main/README.md) | [__NVIDIA__](https://www.nvidia.com/en-in/) [*May 2022 - August 2022*]
+&emsp;&emsp; 🏢👨‍💻 [__Data Science Analyst__](https://github.com/dharun4772/swiggy-data-science/blob/main/README.md) | [__Swiggy__](https://www.swiggy.com/) [*Apr 2022 - July 2023*]
 
-&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Graduate Teaching Assistant - NLP__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*December 2022 - May 2022*]
-
-&emsp;&emsp; 🧪👨‍🔬 [__Research Assistant__](https://github.com/suhasmaddali/Research-Assistant-NN-Verification-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) [*December 2022 - April 2022*]
- 
-&emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies__](https://www.solbots.in/) [*January 2018 - August 2020*]
+&emsp;&emsp; 👨‍🏫🧑‍🏫 [__Data Science Analyst__](https://github.com/dharun4772/tata-data-science/blob/main/README.md) | [__TATA CONSULTANCY SERVICES__](https://www.tcs.com/) [*October 2020 - Apr 2022*]
 
 ## 🖥 My Education 
 
 &emsp;&emsp; 🏫 [__Northeastern University (Khoury College of Computer Science)__](https://www.khoury.northeastern.edu) - *Masters in Data Science*
 
-&emsp;&emsp; 🏫 [__Arizona State University (Ira A. Fulton School of Engineering)__](https://engineering.asu.edu) - *Masters in Software Engineering*
+&emsp;&emsp; 🏫 [__Amrita Vishwa Vidyapeetham__](https://www.amrita.edu/) - *B.Tech in Civl Engineering*
 
-&emsp;&emsp; 🏫 [__VNR Vignana Jyothi Institute of Engineering and Technology__](http://www.vnrvjiet.ac.in/) - *B.Tech in Electronics and Communication Engineering*
-
-&emsp;&emsp; 🏫 [__Narayana Educational Institutions__](https://www.narayanagroup.com) - *High School*
-
-&emsp;&emsp; 🏫 [__Vikas The Concept School__](https://vikasconcept.com) - *Junior High School*
-
-## 🖥 My List of Certifications
-
-&emsp;&emsp; 🌱 [__Machine Learning by Stanford University__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Stanford%20Certificate.pdf)
-
-&emsp;&emsp; 🌱 [__Deep Learning Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deep%20Learning%20Specialization%20Certificate.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Neural Networks and Deep Learning__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/7XJ8XLVS8UA7)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Structuring Machine Learning Projects__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/Z996T3GTDQSE)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Sequence Models__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/HF2XFESMW5BQ)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization__ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/GN8G647GTLCR)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
-
-&emsp;&emsp; 🌱 [__Python for Data Science and Machine Learning__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Data%20Science%20and%20Machine%20Learning%20Bootcamp.pdf)
-
-&emsp;&emsp; 🌱 [__Data Science and Machine Learning Bootcamp with R__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Data%20Science%20and%20Machine%20Learning%20Bootcamp%20with%20R.pdf)
-
-&emsp;&emsp; 🌱 [__Machine Learning Engineering for Production (MLOps) Specialization__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Engineering%20for%20Production%20(MLOps)%20Specialization.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Introduction to Machine Learning in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Introduction%20to%20Machine%20Learning%20in%20Production.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Data Lifecycle in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Data%20Lifecycle%20in%20Production.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Machine Learning Modeling Pipelines in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Machine%20Learning%20Modeling%20Pipelines%20in%20Production.pdf)
-
-&emsp;&emsp; &emsp;&emsp; 🍐 [__Deploying Machine Learning Models in Production__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://github.com/suhasmaddali/Certifications/blob/main/Deploying%20Machine%20Learning%20Models%20in%20Production.pdf)
-
-&emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
-
-&emsp;&emsp; 🌱 [__Deploying AI & Machine Learning Models for Business | Python__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Suhas%20Maddali%20ML%20deployment%20certificate.pdf)
-
-&emsp;&emsp; 🌱 [__Python for Time Series Data Analysis__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Python%20for%20Time%20Series%20Data%20Analysis.pdf)
-
-## 🖥 My Competencies
-
-&emsp;&emsp; 🦸 [__Leadership Skills__](https://github.com/suhasmaddali/Leadership-Skills-)
-
-&emsp;&emsp; 🦸 [__Communication Skills__](https://github.com/suhasmaddali/Communication-Skills-) 
-
-&emsp;&emsp; 🦸 [__Team Work__](https://github.com/suhasmaddali/Team-Work-/blob/main/README.md) 
-
-&emsp;&emsp; 🦸 [__Curiosity__](https://github.com/suhasmaddali/Creativity-/blob/main/README.md)
-
-&emsp;&emsp; 🦸 [__Problem-solving Skills__](https://github.com/suhasmaddali/Problem-Solving)
-
-&emsp;&emsp; 🦸 [__Time Management__](https://github.com/suhasmaddali/Time-Management)
 
 ## 🖥 My Blogs On Medium
 

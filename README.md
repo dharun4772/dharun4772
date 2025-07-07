@@ -6,8 +6,6 @@ I'm passionate about __Machine Learning__, __Data Science__, , __Reinforcement L
 
 The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
 
-![](https://github.com/dharun4772/GIF-Files/blob/main/Dharun%20Suryaa%20Nagarja.gif)
-
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I hold a Masters Degree in Data Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/).
